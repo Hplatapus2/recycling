@@ -47,7 +47,7 @@ export default class Can extends Sprite {
       new Costume("smiths", "./Can/costumes/smiths.jpg", { x: 97, y: 97 }),
       new Costume("toner", "./Can/costumes/toner.jpg", { x: 158, y: 158 }),
       new Costume("vase", "./Can/costumes/vase.jpg", { x: 138, y: 138 }),
-      new Costume("costume1", "./Can/costumes/costume3-01.svg", {
+      new Costume("costume1", "./Can/costumes/costume1.png", {
         x: 190.98299113627013,
         y: 119.7748787778283,
       }),
