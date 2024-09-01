@@ -15,8 +15,8 @@ export default class Stage extends StageBase {
 
     this.costumes = [
       new Costume("recycling plant", "./Stage/costumes/recycling plant.jpg", {
-        x: 480,
-        y: 360,
+        x: 1440,
+        y: 1080,
       }),
     ];
 
